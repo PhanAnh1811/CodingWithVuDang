@@ -1,0 +1,12 @@
+D:\Coding with Vudang\Array\Array\obj\Debug\netcoreapp3.1\ArrayExample.AssemblyInfoInputs.cache
+D:\Coding with Vudang\Array\Array\obj\Debug\netcoreapp3.1\ArrayExample.AssemblyInfo.cs
+D:\Coding with Vudang\Array\Array\obj\Debug\netcoreapp3.1\ArrayExample.csproj.CoreCompileInputs.cache
+D:\Coding with Vudang\Array\Array\bin\Debug\netcoreapp3.1\ArrayExample.exe
+D:\Coding with Vudang\Array\Array\bin\Debug\netcoreapp3.1\ArrayExample.deps.json
+D:\Coding with Vudang\Array\Array\bin\Debug\netcoreapp3.1\ArrayExample.runtimeconfig.json
+D:\Coding with Vudang\Array\Array\bin\Debug\netcoreapp3.1\ArrayExample.runtimeconfig.dev.json
+D:\Coding with Vudang\Array\Array\bin\Debug\netcoreapp3.1\ArrayExample.dll
+D:\Coding with Vudang\Array\Array\bin\Debug\netcoreapp3.1\ArrayExample.pdb
+D:\Coding with Vudang\Array\Array\obj\Debug\netcoreapp3.1\ArrayExample.dll
+D:\Coding with Vudang\Array\Array\obj\Debug\netcoreapp3.1\ArrayExample.pdb
+D:\Coding with Vudang\Array\Array\obj\Debug\netcoreapp3.1\ArrayExample.genruntimeconfig.cache

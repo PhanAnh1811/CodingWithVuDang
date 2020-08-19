@@ -1,0 +1,13 @@
+D:\Coding with Vudang\Array_P2\Array_P2\bin\Debug\netcoreapp3.1\Array_P2.exe
+D:\Coding with Vudang\Array_P2\Array_P2\bin\Debug\netcoreapp3.1\Array_P2.deps.json
+D:\Coding with Vudang\Array_P2\Array_P2\bin\Debug\netcoreapp3.1\Array_P2.runtimeconfig.json
+D:\Coding with Vudang\Array_P2\Array_P2\bin\Debug\netcoreapp3.1\Array_P2.runtimeconfig.dev.json
+D:\Coding with Vudang\Array_P2\Array_P2\bin\Debug\netcoreapp3.1\Array_P2.dll
+D:\Coding with Vudang\Array_P2\Array_P2\bin\Debug\netcoreapp3.1\Array_P2.pdb
+D:\Coding with Vudang\Array_P2\Array_P2\obj\Debug\netcoreapp3.1\Array_P2.csprojAssemblyReference.cache
+D:\Coding with Vudang\Array_P2\Array_P2\obj\Debug\netcoreapp3.1\Array_P2.AssemblyInfoInputs.cache
+D:\Coding with Vudang\Array_P2\Array_P2\obj\Debug\netcoreapp3.1\Array_P2.AssemblyInfo.cs
+D:\Coding with Vudang\Array_P2\Array_P2\obj\Debug\netcoreapp3.1\Array_P2.csproj.CoreCompileInputs.cache
+D:\Coding with Vudang\Array_P2\Array_P2\obj\Debug\netcoreapp3.1\Array_P2.dll
+D:\Coding with Vudang\Array_P2\Array_P2\obj\Debug\netcoreapp3.1\Array_P2.pdb
+D:\Coding with Vudang\Array_P2\Array_P2\obj\Debug\netcoreapp3.1\Array_P2.genruntimeconfig.cache

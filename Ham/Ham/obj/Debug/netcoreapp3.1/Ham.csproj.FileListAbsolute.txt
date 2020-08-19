@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.exe
+C:\Users\ASUS\source\repos\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.deps.json
+C:\Users\ASUS\source\repos\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.runtimeconfig.json
+C:\Users\ASUS\source\repos\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.dll
+C:\Users\ASUS\source\repos\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.pdb
+C:\Users\ASUS\source\repos\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.dll
+C:\Users\ASUS\source\repos\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.pdb
+C:\Users\ASUS\source\repos\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.genruntimeconfig.cache

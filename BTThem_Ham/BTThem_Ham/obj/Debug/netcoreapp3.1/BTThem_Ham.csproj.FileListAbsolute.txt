@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\bin\Debug\netcoreapp3.1\BTThem_Ham.exe
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\bin\Debug\netcoreapp3.1\BTThem_Ham.deps.json
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\bin\Debug\netcoreapp3.1\BTThem_Ham.runtimeconfig.json
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\bin\Debug\netcoreapp3.1\BTThem_Ham.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\bin\Debug\netcoreapp3.1\BTThem_Ham.dll
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\bin\Debug\netcoreapp3.1\BTThem_Ham.pdb
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\obj\Debug\netcoreapp3.1\BTThem_Ham.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\obj\Debug\netcoreapp3.1\BTThem_Ham.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\obj\Debug\netcoreapp3.1\BTThem_Ham.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\obj\Debug\netcoreapp3.1\BTThem_Ham.dll
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\obj\Debug\netcoreapp3.1\BTThem_Ham.pdb
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\obj\Debug\netcoreapp3.1\BTThem_Ham.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\BTThem_Ham\BTThem_Ham\obj\Debug\netcoreapp3.1\BTThem_Ham.csprojAssemblyReference.cache

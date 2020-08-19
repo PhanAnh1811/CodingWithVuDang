@@ -1,0 +1,26 @@
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.exe
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.deps.json
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.runtimeconfig.json
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.dll
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.pdb
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.dll
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.pdb
+C:\Users\ASUS\source\repos\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.genruntimeconfig.cache
+D:\Coding with Vudang\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.csprojAssemblyReference.cache
+D:\Coding with Vudang\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.AssemblyInfoInputs.cache
+D:\Coding with Vudang\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.AssemblyInfo.cs
+D:\Coding with Vudang\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.csproj.CoreCompileInputs.cache
+D:\Coding with Vudang\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.dll
+D:\Coding with Vudang\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.pdb
+D:\Coding with Vudang\BT_Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.exe
+D:\Coding with Vudang\BT_Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.deps.json
+D:\Coding with Vudang\BT_Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.runtimeconfig.json
+D:\Coding with Vudang\BT_Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.runtimeconfig.dev.json
+D:\Coding with Vudang\BT_Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.dll
+D:\Coding with Vudang\BT_Array\BT_Array\bin\Debug\netcoreapp3.1\BT_Array.pdb
+D:\Coding with Vudang\BT_Array\BT_Array\obj\Debug\netcoreapp3.1\BT_Array.genruntimeconfig.cache
