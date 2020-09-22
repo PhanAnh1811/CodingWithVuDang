@@ -1,0 +1,13 @@
+D:\CodingWithVuDang\Search\obj\Debug\netcoreapp3.1\Search.csprojAssemblyReference.cache
+D:\CodingWithVuDang\Search\obj\Debug\netcoreapp3.1\Search.AssemblyInfoInputs.cache
+D:\CodingWithVuDang\Search\obj\Debug\netcoreapp3.1\Search.AssemblyInfo.cs
+D:\CodingWithVuDang\Search\obj\Debug\netcoreapp3.1\Search.csproj.CoreCompileInputs.cache
+D:\CodingWithVuDang\Search\bin\Debug\netcoreapp3.1\Search.exe
+D:\CodingWithVuDang\Search\bin\Debug\netcoreapp3.1\Search.deps.json
+D:\CodingWithVuDang\Search\bin\Debug\netcoreapp3.1\Search.runtimeconfig.json
+D:\CodingWithVuDang\Search\bin\Debug\netcoreapp3.1\Search.runtimeconfig.dev.json
+D:\CodingWithVuDang\Search\bin\Debug\netcoreapp3.1\Search.dll
+D:\CodingWithVuDang\Search\bin\Debug\netcoreapp3.1\Search.pdb
+D:\CodingWithVuDang\Search\obj\Debug\netcoreapp3.1\Search.dll
+D:\CodingWithVuDang\Search\obj\Debug\netcoreapp3.1\Search.pdb
+D:\CodingWithVuDang\Search\obj\Debug\netcoreapp3.1\Search.genruntimeconfig.cache

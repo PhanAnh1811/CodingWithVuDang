@@ -263,55 +263,97 @@ namespace Matrix
 
 
             // //Bai 7
-            int row, col;
-            Console.Write("Nhap so hang: ");
-            row = int.Parse(Console.ReadLine());
-            Console.Write("Nhap so cot: ");
-            col = int.Parse(Console.ReadLine());
-            Console.WriteLine("---------------------------------------");
+            //int row, col;
+            //Console.Write("Nhap so hang: ");
+            //row = int.Parse(Console.ReadLine());
+            //Console.Write("Nhap so cot: ");
+            //col = int.Parse(Console.ReadLine());
+            //Console.WriteLine("---------------------------------------");
 
-            int[,] a = new int[row, col];
-            int[,] b = new int[row, col];
-            for (int i = 0; i < row; i++)
-                for (int j = 0; j < col; j++)
+            //int[,] a = new int[row, col];
+            //int[,] b = new int[row, col];
+            //for (int i = 0; i < row; i++)
+            //    for (int j = 0; j < col; j++)
+            //    {
+            //        Console.Write("Nhap phan tu mang a: ");
+            //        a[i, j] = int.Parse(Console.ReadLine());
+            //    }
+            //Console.WriteLine("--------------------------------------");
+
+            //for (int i = 0; i < row; i++)
+            //    for (int j = 0; j < col; j++)
+            //    {
+            //        Console.Write("Nhap phan tu mang b: ");
+            //        b[i, j] = int.Parse(Console.ReadLine());
+            //    }
+            //Console.WriteLine("--------------------------------------");
+
+            //Console.WriteLine("Mang A");
+            //for (int i = 0; i < row; i++)
+            //{
+            //    for (int j = 0; j < col; j++)
+            //        Console.Write(" " + a[i, j]);
+            //    Console.WriteLine();
+            //}
+            //Console.WriteLine("------------------------------------------");
+
+            //Console.WriteLine("Mang B");
+            //for (int i = 0; i < row; i++)
+            //{
+            //    for (int j = 0; j < col; j++)
+            //        Console.Write(" " + b[i, j]);
+            //    Console.WriteLine();
+            //}
+            //Console.WriteLine("-----------------------------------------");
+            //int sumOfSquares = 0;
+            //for (int i = 0; i < row; i++)
+            //    for (int j = 0; j < col; j++)
+            //        sumOfSquares += (a[i, j] - b[i, j]) * (a[i, j] - b[i, j]);
+            //double distance = Math.Sqrt(sumOfSquares);
+
+            //Console.Write("Khoang cach Euclid cua 2 ma tran = {0:0.00}",distance);
+
+
+            // //Bai 8
+            int n;
+            Console.Write("Nhap n: ");
+            n = int.Parse(Console.ReadLine());
+            Console.WriteLine("----------------------------------------");
+            int[,] a = new int[n, n];
+            int[,] b = new int[n, n];
+            for(int i = 0; i < n; i++)
+                for(int j = 0; j < n; j++)
                 {
                     Console.Write("Nhap phan tu mang a: ");
                     a[i, j] = int.Parse(Console.ReadLine());
                 }
-            Console.WriteLine("--------------------------------------");
-
-            for (int i = 0; i < row; i++)
-                for (int j = 0; j < col; j++)
+            Console.WriteLine("-----------------------------------------");
+            for (int i = 0; i < n; i++)
+                for (int j = 0; j < n; j++)
                 {
                     Console.Write("Nhap phan tu mang b: ");
                     b[i, j] = int.Parse(Console.ReadLine());
                 }
-            Console.WriteLine("--------------------------------------");
-
-            Console.WriteLine("Mang A");
-            for (int i = 0; i < row; i++)
+            Console.WriteLine("-----------------------------------------");
+            for(int i = 0; i < n; i++)
             {
-                for (int j = 0; j < col; j++)
+                for (int j = 0; j < n; j++)
                     Console.Write(" " + a[i, j]);
                 Console.WriteLine();
             }
-            Console.WriteLine("------------------------------------------");
-
-            Console.WriteLine("Mang B");
-            for (int i = 0; i < row; i++)
+            Console.WriteLine("-----------------------------------------");
+            for (int i = 0; i < n; i++)
             {
-                for (int j = 0; j < col; j++)
+                for (int j = 0; j < n; j++)
                     Console.Write(" " + b[i, j]);
                 Console.WriteLine();
             }
-            Console.WriteLine("-----------------------------------------");
-            int sumOfSquares = 0;
-            for (int i = 0; i < row; i++)
-                for (int j = 0; j < col; j++)
-                    sumOfSquares += (a[i, j] - b[i, j]) * (a[i, j] - b[i, j]);
-            double distance = Math.Sqrt(sumOfSquares);
-            Console.Write("Khoang cach Euclid cua 2 ma tran = {0:0.00}",distance);
-
+            int dotProduct = 0;
+            for (int i = 0; i < n; i++)
+                for (int j = 0; j < n; j++)
+                    dotProduct += a[i, j] * b[i, j];
+            Console.WriteLine("----------------------------------------");
+            Console.WriteLine(dotProduct);
         }
     }
 }

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentinel", "Sentinel\Sentinel.csproj", "{9584AD06-DCA5-4D7F-840E-EC018E54AF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9584AD06-DCA5-4D7F-840E-EC018E54AF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9584AD06-DCA5-4D7F-840E-EC018E54AF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9584AD06-DCA5-4D7F-840E-EC018E54AF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9584AD06-DCA5-4D7F-840E-EC018E54AF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DF5D5FF-C9BC-436C-9D9B-B7B525BE1A60}
+	EndGlobalSection
+EndGlobal

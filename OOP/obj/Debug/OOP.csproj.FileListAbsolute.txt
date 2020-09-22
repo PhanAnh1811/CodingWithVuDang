@@ -1,0 +1,7 @@
+D:\CodingWithVuDang\OOP\bin\Debug\OOP.exe.config
+D:\CodingWithVuDang\OOP\bin\Debug\OOP.exe
+D:\CodingWithVuDang\OOP\bin\Debug\OOP.pdb
+D:\CodingWithVuDang\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+D:\CodingWithVuDang\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\CodingWithVuDang\OOP\obj\Debug\OOP.exe
+D:\CodingWithVuDang\OOP\obj\Debug\OOP.pdb

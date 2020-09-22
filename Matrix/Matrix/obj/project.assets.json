@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding with Vudang\\Matrix\\Matrix\\Matrix.csproj",
+      "projectUniqueName": "D:\\CodingWithVuDang\\Matrix\\Matrix\\Matrix.csproj",
       "projectName": "Matrix",
-      "projectPath": "D:\\Coding with Vudang\\Matrix\\Matrix\\Matrix.csproj",
+      "projectPath": "D:\\CodingWithVuDang\\Matrix\\Matrix\\Matrix.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding with Vudang\\Matrix\\Matrix\\obj\\",
+      "outputPath": "D:\\CodingWithVuDang\\Matrix\\Matrix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTap_NMLT", "OnTap_NMLT\OnTap_NMLT.csproj", "{6501FD32-62F2-4F66-8009-C2E3D27B6AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6501FD32-62F2-4F66-8009-C2E3D27B6AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6501FD32-62F2-4F66-8009-C2E3D27B6AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6501FD32-62F2-4F66-8009-C2E3D27B6AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6501FD32-62F2-4F66-8009-C2E3D27B6AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40FBEDB2-F123-4F95-AA1D-F972AEC91C3E}
+	EndGlobalSection
+EndGlobal

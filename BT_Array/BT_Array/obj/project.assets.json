@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding with Vudang\\BT_Array\\BT_Array\\BT_Array.csproj",
+      "projectUniqueName": "D:\\CodingWithVuDang\\BT_Array\\BT_Array\\BT_Array.csproj",
       "projectName": "BT_Array",
-      "projectPath": "D:\\Coding with Vudang\\BT_Array\\BT_Array\\BT_Array.csproj",
+      "projectPath": "D:\\CodingWithVuDang\\BT_Array\\BT_Array\\BT_Array.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding with Vudang\\BT_Array\\BT_Array\\obj\\",
+      "outputPath": "D:\\CodingWithVuDang\\BT_Array\\BT_Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

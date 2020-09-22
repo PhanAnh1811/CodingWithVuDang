@@ -11,3 +11,16 @@ D:\Coding with Vudang\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCo
 D:\Coding with Vudang\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
 D:\Coding with Vudang\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
 D:\Coding with Vudang\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
+D:\CodingWithVuDang\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+D:\CodingWithVuDang\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+D:\CodingWithVuDang\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+D:\CodingWithVuDang\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+D:\CodingWithVuDang\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+D:\CodingWithVuDang\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+D:\CodingWithVuDang\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+D:\CodingWithVuDang\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+D:\CodingWithVuDang\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+D:\CodingWithVuDang\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+D:\CodingWithVuDang\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+D:\CodingWithVuDang\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+D:\CodingWithVuDang\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache

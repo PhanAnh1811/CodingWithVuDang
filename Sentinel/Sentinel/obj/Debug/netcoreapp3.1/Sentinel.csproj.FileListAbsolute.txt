@@ -1,0 +1,13 @@
+D:\CodingWithVuDang\Sentinel\Sentinel\bin\Debug\netcoreapp3.1\Sentinel.exe
+D:\CodingWithVuDang\Sentinel\Sentinel\bin\Debug\netcoreapp3.1\Sentinel.deps.json
+D:\CodingWithVuDang\Sentinel\Sentinel\bin\Debug\netcoreapp3.1\Sentinel.runtimeconfig.json
+D:\CodingWithVuDang\Sentinel\Sentinel\bin\Debug\netcoreapp3.1\Sentinel.runtimeconfig.dev.json
+D:\CodingWithVuDang\Sentinel\Sentinel\bin\Debug\netcoreapp3.1\Sentinel.dll
+D:\CodingWithVuDang\Sentinel\Sentinel\bin\Debug\netcoreapp3.1\Sentinel.pdb
+D:\CodingWithVuDang\Sentinel\Sentinel\obj\Debug\netcoreapp3.1\Sentinel.AssemblyInfoInputs.cache
+D:\CodingWithVuDang\Sentinel\Sentinel\obj\Debug\netcoreapp3.1\Sentinel.AssemblyInfo.cs
+D:\CodingWithVuDang\Sentinel\Sentinel\obj\Debug\netcoreapp3.1\Sentinel.csproj.CoreCompileInputs.cache
+D:\CodingWithVuDang\Sentinel\Sentinel\obj\Debug\netcoreapp3.1\Sentinel.dll
+D:\CodingWithVuDang\Sentinel\Sentinel\obj\Debug\netcoreapp3.1\Sentinel.pdb
+D:\CodingWithVuDang\Sentinel\Sentinel\obj\Debug\netcoreapp3.1\Sentinel.genruntimeconfig.cache
+D:\CodingWithVuDang\Sentinel\Sentinel\obj\Debug\netcoreapp3.1\Sentinel.csprojAssemblyReference.cache
