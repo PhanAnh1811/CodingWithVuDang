@@ -25,6 +25,7 @@ namespace OOP
 
         //Constructor
         public PhanSo() { }
+
         //Parameter
         public PhanSo(int Tuso,int Mauso)
         {
