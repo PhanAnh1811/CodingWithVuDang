@@ -1,0 +1,7 @@
+D:\GraphWithVuDang\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\GraphWithVuDang\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\GraphWithVuDang\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\GraphWithVuDang\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\GraphWithVuDang\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\GraphWithVuDang\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\GraphWithVuDang\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
